@@ -215,3 +215,5 @@ public static void setBadgeCount(Context context, int count)
 public static void resetBadgeCount(Context context)
 ```
 
+## 其他说明
+### 工作环境
